@@ -11,9 +11,9 @@
     {
         "nom": "Llosa del Cavall (Nav\u00e8s)",
         "comput_conques_internes": true,
-        "hm3": 56.313,
+        "hm3": 56.336,
         "hm3_maxim": 80.0,
-        "pct": 70.391,
+        "pct": 70.42,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 127.001,
+        "hm3": 127.006,
         "hm3_maxim": 165.26,
-        "pct": 76.849,
+        "pct": 76.852,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,27 +47,27 @@
     {
         "nom": "Susqueda (Osor)",
         "comput_conques_internes": true,
-        "hm3": 150.683,
+        "hm3": 150.84,
         "hm3_maxim": 233.0,
-        "pct": 64.671,
+        "pct": 64.738,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.032,
+        "hm3": 1.008,
         "hm3_maxim": 1.3,
-        "pct": 79.385,
+        "pct": 77.538,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sant Pon\u00e7 (Clariana de Cardener)",
         "comput_conques_internes": true,
-        "hm3": 21.935,
+        "hm3": 21.949,
         "hm3_maxim": 24.38,
-        "pct": 89.971,
+        "pct": 90.029,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
