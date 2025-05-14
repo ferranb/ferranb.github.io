@@ -2,36 +2,36 @@
     {
         "nom": "Foix (Castellet i la Gornal)",
         "comput_conques_internes": true,
-        "hm3": 3.751,
+        "hm3": 3.745,
         "hm3_maxim": 3.74,
-        "pct": 100.294,
+        "pct": 100.134,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Llosa del Cavall (Nav\u00e8s)",
         "comput_conques_internes": true,
-        "hm3": 58.477,
+        "hm3": 58.489,
         "hm3_maxim": 80.0,
-        "pct": 73.096,
+        "pct": 73.111,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Baells (Cercs)",
         "comput_conques_internes": true,
-        "hm3": 107.762,
+        "hm3": 107.725,
         "hm3_maxim": 109.43,
-        "pct": 98.476,
+        "pct": 98.442,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 125.275,
+        "hm3": 125.084,
         "hm3_maxim": 165.26,
-        "pct": 75.805,
+        "pct": 75.689,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,36 +47,36 @@
     {
         "nom": "Susqueda (Osor)",
         "comput_conques_internes": true,
-        "hm3": 169.485,
+        "hm3": 169.71,
         "hm3_maxim": 233.0,
-        "pct": 72.74,
+        "pct": 72.837,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.0,
+        "hm3": 1.037,
         "hm3_maxim": 1.3,
-        "pct": 76.923,
+        "pct": 79.769,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sant Pon\u00e7 (Clariana de Cardener)",
         "comput_conques_internes": true,
-        "hm3": 22.478,
+        "hm3": 22.492,
         "hm3_maxim": 24.38,
-        "pct": 92.199,
+        "pct": 92.256,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Gai\u00e0 (el Catllar)",
         "comput_conques_internes": false,
-        "hm3": 1.261,
+        "hm3": 1.262,
         "hm3_maxim": 59.4,
-        "pct": 2.123,
+        "pct": 2.125,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
