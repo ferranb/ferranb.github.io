@@ -29,36 +29,36 @@
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 103.744,
+        "hm3": 103.578,
         "hm3_maxim": 165.26,
-        "pct": 62.776,
+        "pct": 62.676,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Darnius Boadella (Darnius)",
         "comput_conques_internes": true,
-        "hm3": 46.404,
+        "hm3": 46.435,
         "hm3_maxim": 61.1,
-        "pct": 75.948,
+        "pct": 75.998,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Susqueda (Osor)",
         "comput_conques_internes": true,
-        "hm3": 207.55,
+        "hm3": 207.773,
         "hm3_maxim": 233.0,
-        "pct": 89.077,
+        "pct": 89.173,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.066,
+        "hm3": 1.1,
         "hm3_maxim": 1.3,
-        "pct": 82.0,
+        "pct": 84.615,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
