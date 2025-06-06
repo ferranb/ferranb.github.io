@@ -20,18 +20,18 @@
     {
         "nom": "Baells (Cercs)",
         "comput_conques_internes": true,
-        "hm3": 106.32,
+        "hm3": 106.288,
         "hm3_maxim": 109.43,
-        "pct": 97.158,
+        "pct": 97.129,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 106.579,
+        "hm3": 106.588,
         "hm3_maxim": 165.26,
-        "pct": 64.492,
+        "pct": 64.497,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
