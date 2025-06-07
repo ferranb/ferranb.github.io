@@ -20,18 +20,18 @@
     {
         "nom": "Baells (Cercs)",
         "comput_conques_internes": true,
-        "hm3": 106.252,
+        "hm3": 106.216,
         "hm3_maxim": 109.43,
-        "pct": 97.096,
+        "pct": 97.063,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 106.729,
+        "hm3": 106.752,
         "hm3_maxim": 165.26,
-        "pct": 64.582,
+        "pct": 64.596,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,9 +47,9 @@
     {
         "nom": "Susqueda (Osor)",
         "comput_conques_internes": true,
-        "hm3": 212.115,
+        "hm3": 212.079,
         "hm3_maxim": 233.0,
-        "pct": 91.036,
+        "pct": 91.021,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
