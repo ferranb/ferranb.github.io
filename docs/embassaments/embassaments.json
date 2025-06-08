@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 107.784,
+        "hm3": 107.775,
         "hm3_maxim": 165.26,
-        "pct": 65.221,
+        "pct": 65.215,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -74,9 +74,9 @@
     {
         "nom": "Gai\u00e0 (el Catllar)",
         "comput_conques_internes": false,
-        "hm3": 1.091,
+        "hm3": 1.09,
         "hm3_maxim": 59.4,
-        "pct": 1.837,
+        "pct": 1.835,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
