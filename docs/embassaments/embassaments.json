@@ -11,27 +11,27 @@
     {
         "nom": "Llosa del Cavall (Nav\u00e8s)",
         "comput_conques_internes": true,
-        "hm3": 63.366,
+        "hm3": 63.379,
         "hm3_maxim": 80.0,
-        "pct": 79.208,
+        "pct": 79.224,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Baells (Cercs)",
         "comput_conques_internes": true,
-        "hm3": 106.144,
+        "hm3": 106.109,
         "hm3_maxim": 109.43,
-        "pct": 96.997,
+        "pct": 96.965,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 107.368,
+        "hm3": 107.391,
         "hm3_maxim": 165.26,
-        "pct": 64.969,
+        "pct": 64.983,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,9 +47,9 @@
     {
         "nom": "Susqueda (Osor)",
         "comput_conques_internes": true,
-        "hm3": 211.389,
+        "hm3": 211.395,
         "hm3_maxim": 233.0,
-        "pct": 90.725,
+        "pct": 90.727,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
