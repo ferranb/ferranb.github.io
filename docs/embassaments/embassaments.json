@@ -11,27 +11,27 @@
     {
         "nom": "Llosa del Cavall (Nav\u00e8s)",
         "comput_conques_internes": true,
-        "hm3": 64.063,
+        "hm3": 64.068,
         "hm3_maxim": 80.0,
-        "pct": 80.079,
+        "pct": 80.085,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Baells (Cercs)",
         "comput_conques_internes": true,
-        "hm3": 105.324,
+        "hm3": 105.288,
         "hm3_maxim": 109.43,
-        "pct": 96.248,
+        "pct": 96.215,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 111.425,
+        "hm3": 111.49,
         "hm3_maxim": 165.26,
-        "pct": 67.424,
+        "pct": 67.463,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,18 +47,18 @@
     {
         "nom": "Susqueda (Osor)",
         "comput_conques_internes": true,
-        "hm3": 205.533,
+        "hm3": 205.424,
         "hm3_maxim": 233.0,
-        "pct": 88.212,
+        "pct": 88.165,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 0.884,
+        "hm3": 0.94,
         "hm3_maxim": 1.3,
-        "pct": 68.0,
+        "pct": 72.308,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
