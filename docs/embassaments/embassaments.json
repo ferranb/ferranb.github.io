@@ -20,9 +20,9 @@
     {
         "nom": "Baells (Cercs)",
         "comput_conques_internes": true,
-        "hm3": 103.165,
+        "hm3": 103.13,
         "hm3_maxim": 109.43,
-        "pct": 94.275,
+        "pct": 94.243,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,18 +47,18 @@
     {
         "nom": "Susqueda (Osor)",
         "comput_conques_internes": true,
-        "hm3": 206.095,
+        "hm3": 206.06,
         "hm3_maxim": 233.0,
-        "pct": 88.453,
+        "pct": 88.438,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 0.761,
+        "hm3": 0.764,
         "hm3_maxim": 1.3,
-        "pct": 58.538,
+        "pct": 58.769,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
@@ -83,9 +83,9 @@
     {
         "nom": "Siurana (Cornudella de Montsant)",
         "comput_conques_internes": true,
-        "hm3": 3.124,
+        "hm3": 3.122,
         "hm3_maxim": 12.22,
-        "pct": 25.565,
+        "pct": 25.548,
         "fase_emoji": "\ud83d\udfe1",
         "fase_nom": "Fase d'alerta"
     },
