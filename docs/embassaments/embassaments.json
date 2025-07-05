@@ -11,9 +11,9 @@
     {
         "nom": "Llosa del Cavall (Nav\u00e8s)",
         "comput_conques_internes": true,
-        "hm3": 65.463,
+        "hm3": 65.466,
         "hm3_maxim": 80.0,
-        "pct": 81.829,
+        "pct": 81.832,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 102.814,
+        "hm3": 102.836,
         "hm3_maxim": 165.81,
-        "pct": 62.007,
+        "pct": 62.02,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,20 +47,20 @@
     {
         "nom": "Susqueda (Osor)",
         "comput_conques_internes": true,
-        "hm3": 195.087,
+        "hm3": 195.02,
         "hm3_maxim": 223.58,
-        "pct": 87.256,
+        "pct": 87.226,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 0.756,
+        "hm3": 0.782,
         "hm3_maxim": 1.3,
-        "pct": 58.154,
-        "fase_emoji": "\ud83d\udfe2",
-        "fase_nom": "Fase de pre-alerta"
+        "pct": 60.154,
+        "fase_emoji": "\ud83d\udd35",
+        "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sant Pon\u00e7 (Clariana de Cardener)",
@@ -74,9 +74,9 @@
     {
         "nom": "Gai\u00e0 (el Catllar)",
         "comput_conques_internes": false,
-        "hm3": 0.93,
+        "hm3": 0.929,
         "hm3_maxim": 59.4,
-        "pct": 1.566,
+        "pct": 1.564,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
@@ -92,9 +92,9 @@
     {
         "nom": "Riudecanyes",
         "comput_conques_internes": true,
-        "hm3": 2.804,
+        "hm3": 2.802,
         "hm3_maxim": 5.32,
-        "pct": 52.707,
+        "pct": 52.669,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     }
