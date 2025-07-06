@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 103.12,
+        "hm3": 103.116,
         "hm3_maxim": 165.81,
-        "pct": 62.192,
+        "pct": 62.189,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -56,9 +56,9 @@
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 0.903,
+        "hm3": 0.87,
         "hm3_maxim": 1.3,
-        "pct": 69.462,
+        "pct": 66.923,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
