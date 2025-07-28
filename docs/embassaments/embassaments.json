@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 106.948,
+        "hm3": 106.997,
         "hm3_maxim": 165.81,
-        "pct": 64.5,
+        "pct": 64.53,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,9 +47,9 @@
     {
         "nom": "Susqueda (Osor)",
         "comput_conques_internes": true,
-        "hm3": 185.926,
+        "hm3": 185.892,
         "hm3_maxim": 223.58,
-        "pct": 83.159,
+        "pct": 83.143,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
