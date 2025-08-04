@@ -11,9 +11,9 @@
     {
         "nom": "Llosa del Cavall (Nav\u00e8s)",
         "comput_conques_internes": true,
-        "hm3": 67.314,
+        "hm3": 67.317,
         "hm3_maxim": 80.0,
-        "pct": 84.142,
+        "pct": 84.146,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 108.573,
+        "hm3": 108.591,
         "hm3_maxim": 165.81,
-        "pct": 65.48,
+        "pct": 65.491,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,45 +47,45 @@
     {
         "nom": "Susqueda (Osor)",
         "comput_conques_internes": true,
-        "hm3": 180.743,
+        "hm3": 180.738,
         "hm3_maxim": 223.58,
-        "pct": 80.84,
+        "pct": 80.838,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 0.858,
+        "hm3": 0.827,
         "hm3_maxim": 1.3,
-        "pct": 66.0,
+        "pct": 63.615,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sant Pon\u00e7 (Clariana de Cardener)",
         "comput_conques_internes": true,
-        "hm3": 21.746,
+        "hm3": 21.76,
         "hm3_maxim": 24.38,
-        "pct": 89.196,
+        "pct": 89.253,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Gai\u00e0 (el Catllar)",
         "comput_conques_internes": false,
-        "hm3": 0.826,
+        "hm3": 0.825,
         "hm3_maxim": 59.4,
-        "pct": 1.391,
+        "pct": 1.389,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
     {
         "nom": "Siurana (Cornudella de Montsant)",
         "comput_conques_internes": true,
-        "hm3": 2.934,
+        "hm3": 2.925,
         "hm3_maxim": 12.22,
-        "pct": 24.01,
+        "pct": 23.936,
         "fase_emoji": "\ud83d\udfe0",
         "fase_nom": "Fase d'excepcionalitat"
     },
