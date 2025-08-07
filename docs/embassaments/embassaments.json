@@ -2,9 +2,9 @@
     {
         "nom": "Foix (Castellet i la Gornal)",
         "comput_conques_internes": true,
-        "hm3": 3.599,
+        "hm3": 3.598,
         "hm3_maxim": 3.74,
-        "pct": 96.23,
+        "pct": 96.203,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 106.308,
+        "hm3": 106.094,
         "hm3_maxim": 165.81,
-        "pct": 64.114,
+        "pct": 63.985,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,27 +47,27 @@
     {
         "nom": "Susqueda (Osor)",
         "comput_conques_internes": true,
-        "hm3": 181.024,
+        "hm3": 181.135,
         "hm3_maxim": 223.58,
-        "pct": 80.966,
+        "pct": 81.016,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.013,
+        "hm3": 1.047,
         "hm3_maxim": 1.3,
-        "pct": 77.923,
+        "pct": 80.538,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sant Pon\u00e7 (Clariana de Cardener)",
         "comput_conques_internes": true,
-        "hm3": 21.76,
+        "hm3": 21.746,
         "hm3_maxim": 24.38,
-        "pct": 89.253,
+        "pct": 89.196,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -83,18 +83,18 @@
     {
         "nom": "Siurana (Cornudella de Montsant)",
         "comput_conques_internes": true,
-        "hm3": 2.117,
+        "hm3": 2.107,
         "hm3_maxim": 12.22,
-        "pct": 17.324,
+        "pct": 17.242,
         "fase_emoji": "\ud83d\udfe0",
         "fase_nom": "Fase d'excepcionalitat"
     },
     {
         "nom": "Riudecanyes",
         "comput_conques_internes": true,
-        "hm3": 2.597,
+        "hm3": 2.605,
         "hm3_maxim": 5.32,
-        "pct": 48.816,
+        "pct": 48.966,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     }
