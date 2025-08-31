@@ -2,18 +2,18 @@
     {
         "nom": "Foix (Castellet i la Gornal)",
         "comput_conques_internes": true,
-        "hm3": 2.681,
+        "hm3": 2.68,
         "hm3_maxim": 3.74,
-        "pct": 71.684,
+        "pct": 71.658,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Llosa del Cavall (Nav\u00e8s)",
         "comput_conques_internes": true,
-        "hm3": 60.678,
+        "hm3": 60.683,
         "hm3_maxim": 80.0,
-        "pct": 75.847,
+        "pct": 75.854,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 94.465,
+        "hm3": 94.452,
         "hm3_maxim": 165.81,
-        "pct": 56.972,
+        "pct": 56.964,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
@@ -47,18 +47,18 @@
     {
         "nom": "Susqueda (Osor)",
         "comput_conques_internes": true,
-        "hm3": 180.743,
+        "hm3": 180.714,
         "hm3_maxim": 223.58,
-        "pct": 80.84,
+        "pct": 80.827,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.016,
+        "hm3": 1.013,
         "hm3_maxim": 1.3,
-        "pct": 78.154,
+        "pct": 77.923,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -74,9 +74,9 @@
     {
         "nom": "Gai\u00e0 (el Catllar)",
         "comput_conques_internes": false,
-        "hm3": 0.707,
+        "hm3": 0.706,
         "hm3_maxim": 59.4,
-        "pct": 1.19,
+        "pct": 1.189,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
