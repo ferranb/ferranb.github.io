@@ -2,9 +2,9 @@
     {
         "nom": "Foix (Castellet i la Gornal)",
         "comput_conques_internes": true,
-        "hm3": 2.634,
+        "hm3": 2.635,
         "hm3_maxim": 3.37,
-        "pct": 78.16,
+        "pct": 78.19,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -20,27 +20,27 @@
     {
         "nom": "Baells (Cercs)",
         "comput_conques_internes": true,
-        "hm3": 93.566,
+        "hm3": 93.533,
         "hm3_maxim": 108.71,
-        "pct": 86.069,
+        "pct": 86.039,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 94.815,
+        "hm3": 94.874,
         "hm3_maxim": 165.81,
-        "pct": 57.183,
+        "pct": 57.219,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
     {
         "nom": "Darnius Boadella (Darnius)",
         "comput_conques_internes": true,
-        "hm3": 37.13,
+        "hm3": 37.167,
         "hm3_maxim": 63.3,
-        "pct": 58.657,
+        "pct": 58.716,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
@@ -83,18 +83,18 @@
     {
         "nom": "Siurana (Cornudella de Montsant)",
         "comput_conques_internes": true,
-        "hm3": 1.848,
+        "hm3": 1.846,
         "hm3_maxim": 12.22,
-        "pct": 15.123,
+        "pct": 15.106,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
     {
         "nom": "Riudecanyes",
         "comput_conques_internes": true,
-        "hm3": 2.117,
+        "hm3": 2.114,
         "hm3_maxim": 5.32,
-        "pct": 39.793,
+        "pct": 39.737,
         "fase_emoji": "\ud83d\udfe1",
         "fase_nom": "Fase d'alerta"
     }
