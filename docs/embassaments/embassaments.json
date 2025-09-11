@@ -2,9 +2,9 @@
     {
         "nom": "Foix (Castellet i la Gornal)",
         "comput_conques_internes": true,
-        "hm3": 2.805,
+        "hm3": 2.8,
         "hm3_maxim": 3.37,
-        "pct": 83.234,
+        "pct": 83.086,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 98.948,
+        "hm3": 98.995,
         "hm3_maxim": 165.81,
-        "pct": 59.676,
+        "pct": 59.704,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
@@ -56,9 +56,9 @@
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 0.961,
+        "hm3": 0.938,
         "hm3_maxim": 1.3,
-        "pct": 73.923,
+        "pct": 72.154,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
