@@ -56,9 +56,9 @@
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.106,
+        "hm3": 1.099,
         "hm3_maxim": 1.3,
-        "pct": 85.077,
+        "pct": 84.538,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -92,9 +92,9 @@
     {
         "nom": "Riudecanyes",
         "comput_conques_internes": true,
-        "hm3": 2.007,
+        "hm3": 2.005,
         "hm3_maxim": 5.32,
-        "pct": 37.726,
+        "pct": 37.688,
         "fase_emoji": "\ud83d\udfe1",
         "fase_nom": "Fase d'alerta"
     }
