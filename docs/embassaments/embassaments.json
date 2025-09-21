@@ -2,18 +2,18 @@
     {
         "nom": "Foix (Castellet i la Gornal)",
         "comput_conques_internes": true,
-        "hm3": 2.667,
+        "hm3": 2.666,
         "hm3_maxim": 3.37,
-        "pct": 79.139,
+        "pct": 79.11,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Llosa del Cavall (Nav\u00e8s)",
         "comput_conques_internes": true,
-        "hm3": 63.223,
+        "hm3": 63.235,
         "hm3_maxim": 71.56,
-        "pct": 88.35,
+        "pct": 88.366,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 100.054,
+        "hm3": 100.063,
         "hm3_maxim": 165.81,
-        "pct": 60.343,
+        "pct": 60.348,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,9 +47,9 @@
     {
         "nom": "Susqueda (Osor)",
         "comput_conques_internes": true,
-        "hm3": 181.024,
+        "hm3": 180.995,
         "hm3_maxim": 223.58,
-        "pct": 80.966,
+        "pct": 80.953,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -92,9 +92,9 @@
     {
         "nom": "Riudecanyes",
         "comput_conques_internes": true,
-        "hm3": 1.95,
+        "hm3": 1.948,
         "hm3_maxim": 5.32,
-        "pct": 36.654,
+        "pct": 36.617,
         "fase_emoji": "\ud83d\udfe1",
         "fase_nom": "Fase d'alerta"
     }
