@@ -20,9 +20,9 @@
     {
         "nom": "Baells (Cercs)",
         "comput_conques_internes": true,
-        "hm3": 94.391,
+        "hm3": 94.358,
         "hm3_maxim": 108.71,
-        "pct": 86.828,
+        "pct": 86.798,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -38,9 +38,9 @@
     {
         "nom": "Darnius Boadella (Darnius)",
         "comput_conques_internes": true,
-        "hm3": 37.428,
+        "hm3": 37.423,
         "hm3_maxim": 63.3,
-        "pct": 59.128,
+        "pct": 59.12,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
@@ -56,9 +56,9 @@
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.091,
+        "hm3": 1.074,
         "hm3_maxim": 1.3,
-        "pct": 83.923,
+        "pct": 82.615,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
