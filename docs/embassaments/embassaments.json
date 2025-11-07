@@ -20,18 +20,18 @@
     {
         "nom": "Baells (Cercs)",
         "comput_conques_internes": true,
-        "hm3": 89.231,
+        "hm3": 89.199,
         "hm3_maxim": 108.71,
-        "pct": 82.082,
+        "pct": 82.052,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Vilanova de Sau)",
         "comput_conques_internes": true,
-        "hm3": 90.818,
+        "hm3": 90.879,
         "hm3_maxim": 165.81,
-        "pct": 54.772,
+        "pct": 54.809,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
@@ -56,9 +56,9 @@
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.078,
+        "hm3": 1.066,
         "hm3_maxim": 1.3,
-        "pct": 82.923,
+        "pct": 82.0,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
