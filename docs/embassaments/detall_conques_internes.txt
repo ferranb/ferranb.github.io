@@ -1,8 +1,8 @@
-🔵 Conques Internes: 494,712hm³ (màx 678,2800000000001 hm3) (72,936%)
+🔵 Conques Internes: 494,749hm³ (màx 678,2800000000001 hm3) (72,942%)
 
 🔴 Siurana: 1,593hm³ de 12,22hm³  (13,036%)
 🟡 Riudecanyes: 1,674hm³ de 5,32hm³  (31,466%)
-🟢 Sau: 91,829hm³ de 165,81hm³  (55,382%)
+🟢 Sau: 91,866hm³ de 165,81hm³  (55,404%)
 🟢 Darnius Boadella: 36,892hm³ de 63,3hm³  (58,281%)
 🔵 Foix: 2,654hm³ de 3,37hm³  (78,754%)
 🔵 Baells: 89,104hm³ de 108,71hm³  (81,965%)
