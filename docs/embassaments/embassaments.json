@@ -11,9 +11,9 @@
     {
         "nom": "Llosa del Cavall (Nav\u00e8s)",
         "comput_conques_internes": true,
-        "hm3": 61.569,
+        "hm3": 61.573,
         "hm3_maxim": 71.56,
-        "pct": 86.038,
+        "pct": 86.044,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -56,9 +56,9 @@
     {
         "nom": "Pasteral (la Cellera de Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.038,
+        "hm3": 1.026,
         "hm3_maxim": 1.3,
-        "pct": 79.846,
+        "pct": 78.923,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
