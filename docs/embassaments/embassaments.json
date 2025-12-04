@@ -47,9 +47,9 @@
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 197.796,
+        "hm3": 197.801,
         "hm3_maxim": 223.58,
-        "pct": 88.468,
+        "pct": 88.47,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -83,9 +83,9 @@
     {
         "nom": "Siurana (Siurana)",
         "comput_conques_internes": true,
-        "hm3": 1.52,
+        "hm3": 1.521,
         "hm3_maxim": 12.01,
-        "pct": 12.656,
+        "pct": 12.664,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
