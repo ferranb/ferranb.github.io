@@ -11,27 +11,27 @@
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 59.425,
+        "hm3": 59.401,
         "hm3_maxim": 71.56,
-        "pct": 83.042,
+        "pct": 83.009,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "La Baells (Llobregat)",
         "comput_conques_internes": true,
-        "hm3": 85.97,
+        "hm3": 85.939,
         "hm3_maxim": 108.71,
-        "pct": 79.082,
+        "pct": 79.053,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 77.66,
+        "hm3": 77.649,
         "hm3_maxim": 165.81,
-        "pct": 46.837,
+        "pct": 46.83,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
@@ -56,9 +56,9 @@
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.075,
+        "hm3": 1.049,
         "hm3_maxim": 1.3,
-        "pct": 82.692,
+        "pct": 80.692,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
