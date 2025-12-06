@@ -11,9 +11,9 @@
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 59.434,
+        "hm3": 59.425,
         "hm3_maxim": 71.56,
-        "pct": 83.055,
+        "pct": 83.042,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 77.641,
+        "hm3": 77.66,
         "hm3_maxim": 165.81,
-        "pct": 46.825,
+        "pct": 46.837,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
@@ -47,18 +47,18 @@
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 197.258,
+        "hm3": 197.227,
         "hm3_maxim": 223.58,
-        "pct": 88.227,
+        "pct": 88.213,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.088,
+        "hm3": 1.075,
         "hm3_maxim": 1.3,
-        "pct": 83.692,
+        "pct": 82.692,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -83,9 +83,9 @@
     {
         "nom": "Siurana (Siurana)",
         "comput_conques_internes": true,
-        "hm3": 1.518,
+        "hm3": 1.516,
         "hm3_maxim": 12.01,
-        "pct": 12.639,
+        "pct": 12.623,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
