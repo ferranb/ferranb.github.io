@@ -11,63 +11,63 @@
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 59.117,
+        "hm3": 59.107,
         "hm3_maxim": 71.56,
-        "pct": 82.612,
+        "pct": 82.598,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "La Baells (Llobregat)",
         "comput_conques_internes": true,
-        "hm3": 85.692,
+        "hm3": 85.661,
         "hm3_maxim": 108.71,
-        "pct": 78.826,
+        "pct": 78.798,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 78.003,
+        "hm3": 78.021,
         "hm3_maxim": 165.81,
-        "pct": 47.044,
+        "pct": 47.054,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
     {
         "nom": "Darnius Boadella (Muga)",
         "comput_conques_internes": true,
-        "hm3": 36.237,
+        "hm3": 36.159,
         "hm3_maxim": 63.3,
-        "pct": 57.246,
+        "pct": 57.123,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 196.551,
+        "hm3": 196.495,
         "hm3_maxim": 223.58,
-        "pct": 87.911,
+        "pct": 87.886,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.07,
+        "hm3": 1.085,
         "hm3_maxim": 1.3,
-        "pct": 82.308,
+        "pct": 83.462,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sant Pon\u00e7 (Ter)",
         "comput_conques_internes": true,
-        "hm3": 20.185,
+        "hm3": 20.172,
         "hm3_maxim": 24.41,
-        "pct": 82.692,
+        "pct": 82.638,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
