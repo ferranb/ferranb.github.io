@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 78.018,
+        "hm3": 78.003,
         "hm3_maxim": 165.81,
-        "pct": 47.053,
+        "pct": 47.044,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
@@ -56,9 +56,9 @@
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.063,
+        "hm3": 1.07,
         "hm3_maxim": 1.3,
-        "pct": 81.769,
+        "pct": 82.308,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
