@@ -2,10 +2,10 @@
 
 🔴 Siurana: 1,565hm³ de 12,01hm³  (13,031%)
 🟡 Riudecanyes: 1,839hm³ de 5,32hm³  (34,568%)
-🟢 Sau: 70,857hm³ de 165,81hm³  (42,734%)
+🟢 Sau: 70,907hm³ de 165,81hm³  (42,764%)
 🔵 Darnius Boadella: 38,391hm³ de 63,3hm³  (60,649%)
 🔵 Foix: 2,570hm³ de 3,37hm³  (76,261%)
 🔵 La Baells: 84,558hm³ de 108,71hm³  (77,783%)
 🔵 Sant Ponç: 19,452hm³ de 24,41hm³  (79,689%)
-🔵 La Llosa del Cavall: 57,084hm³ de 71,56hm³  (79,771%)
-🔵 Susqueda: 205,126hm³ de 223,58hm³  (91,746%)
+🔵 La Llosa del Cavall: 57,082hm³ de 71,56hm³  (79,768%)
+🔵 Susqueda: 205,078hm³ de 223,58hm³  (91,725%)
