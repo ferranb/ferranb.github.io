@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 71.858,
+        "hm3": 71.915,
         "hm3_maxim": 165.81,
-        "pct": 43.338,
+        "pct": 43.372,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
@@ -74,9 +74,9 @@
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 0.462,
+        "hm3": 0.461,
         "hm3_maxim": 59.4,
-        "pct": 0.778,
+        "pct": 0.776,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
