@@ -20,18 +20,18 @@
     {
         "nom": "La Baells (Llobregat)",
         "comput_conques_internes": true,
-        "hm3": 89.39,
+        "hm3": 89.422,
         "hm3_maxim": 108.71,
-        "pct": 82.228,
+        "pct": 82.257,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 126.192,
+        "hm3": 126.253,
         "hm3_maxim": 165.81,
-        "pct": 76.106,
+        "pct": 76.143,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -56,9 +56,9 @@
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.112,
+        "hm3": 1.11,
         "hm3_maxim": 1.3,
-        "pct": 85.538,
+        "pct": 85.385,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -92,9 +92,9 @@
     {
         "nom": "Riudecanyes (riera de Riudecanyes)",
         "comput_conques_internes": true,
-        "hm3": 2.586,
+        "hm3": 2.588,
         "hm3_maxim": 5.32,
-        "pct": 48.609,
+        "pct": 48.647,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     }
