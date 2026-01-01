@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 127.186,
+        "hm3": 127.242,
         "hm3_maxim": 165.81,
-        "pct": 76.706,
+        "pct": 76.74,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,27 +47,27 @@
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 218.665,
+        "hm3": 218.648,
         "hm3_maxim": 223.58,
-        "pct": 97.802,
+        "pct": 97.794,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 0.974,
+        "hm3": 0.988,
         "hm3_maxim": 1.3,
-        "pct": 74.923,
+        "pct": 76.0,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sant Pon\u00e7 (Ter)",
         "comput_conques_internes": true,
-        "hm3": 19.922,
+        "hm3": 19.934,
         "hm3_maxim": 24.41,
-        "pct": 81.614,
+        "pct": 81.663,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -83,9 +83,9 @@
     {
         "nom": "Siurana (Siurana)",
         "comput_conques_internes": true,
-        "hm3": 2.062,
+        "hm3": 2.065,
         "hm3_maxim": 12.01,
-        "pct": 17.169,
+        "pct": 17.194,
         "fase_emoji": "\ud83d\udfe0",
         "fase_nom": "Fase d'excepcionalitat"
     },
