@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 132.947,
+        "hm3": 132.989,
         "hm3_maxim": 165.81,
-        "pct": 80.18,
+        "pct": 80.206,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,27 +47,27 @@
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 216.8,
+        "hm3": 216.761,
         "hm3_maxim": 223.58,
-        "pct": 96.968,
+        "pct": 96.95,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.06,
+        "hm3": 1.048,
         "hm3_maxim": 1.3,
-        "pct": 81.538,
+        "pct": 80.615,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sant Pon\u00e7 (Ter)",
         "comput_conques_internes": true,
-        "hm3": 20.185,
+        "hm3": 20.198,
         "hm3_maxim": 24.41,
-        "pct": 82.692,
+        "pct": 82.745,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
