@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 141.882,
+        "hm3": 141.937,
         "hm3_maxim": 165.81,
-        "pct": 85.569,
+        "pct": 85.602,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,9 +47,9 @@
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 210.63,
+        "hm3": 210.593,
         "hm3_maxim": 223.58,
-        "pct": 94.208,
+        "pct": 94.191,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
