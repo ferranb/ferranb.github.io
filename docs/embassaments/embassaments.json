@@ -2,54 +2,54 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 2.89,
+        "hm3": 2.886,
         "hm3_maxim": 3.37,
-        "pct": 85.757,
+        "pct": 85.638,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 64.491,
+        "hm3": 64.531,
         "hm3_maxim": 71.56,
-        "pct": 90.122,
+        "pct": 90.177,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "La Baells (Llobregat)",
         "comput_conques_internes": true,
-        "hm3": 99.987,
+        "hm3": 100.028,
         "hm3_maxim": 108.71,
-        "pct": 91.976,
+        "pct": 92.014,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 156.342,
+        "hm3": 156.484,
         "hm3_maxim": 165.81,
-        "pct": 94.29,
+        "pct": 94.375,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Darnius Boadella (Muga)",
         "comput_conques_internes": true,
-        "hm3": 60.96,
+        "hm3": 60.924,
         "hm3_maxim": 63.3,
-        "pct": 96.303,
+        "pct": 96.246,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 206.052,
+        "hm3": 205.919,
         "hm3_maxim": 223.58,
-        "pct": 92.16,
+        "pct": 92.101,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -65,27 +65,27 @@
     {
         "nom": "Sant Pon\u00e7 (Ter)",
         "comput_conques_internes": true,
-        "hm3": 22.896,
+        "hm3": 22.91,
         "hm3_maxim": 24.41,
-        "pct": 93.798,
+        "pct": 93.855,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 2.512,
+        "hm3": 2.516,
         "hm3_maxim": 59.4,
-        "pct": 4.229,
+        "pct": 4.236,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
     {
         "nom": "Siurana (Siurana)",
         "comput_conques_internes": true,
-        "hm3": 5.096,
+        "hm3": 5.101,
         "hm3_maxim": 12.01,
-        "pct": 42.431,
+        "pct": 42.473,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
