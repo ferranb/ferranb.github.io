@@ -11,9 +11,9 @@
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 69.394,
+        "hm3": 69.418,
         "hm3_maxim": 71.56,
-        "pct": 96.973,
+        "pct": 97.007,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 144.883,
+        "hm3": 144.871,
         "hm3_maxim": 165.81,
-        "pct": 87.379,
+        "pct": 87.372,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -56,9 +56,9 @@
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 0.938,
+        "hm3": 0.948,
         "hm3_maxim": 1.3,
-        "pct": 72.154,
+        "pct": 72.923,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -92,9 +92,9 @@
     {
         "nom": "Riudecanyes (riera de Riudecanyes)",
         "comput_conques_internes": true,
-        "hm3": 5.308,
+        "hm3": 5.312,
         "hm3_maxim": 5.32,
-        "pct": 99.774,
+        "pct": 99.85,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     }
