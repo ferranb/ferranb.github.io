@@ -11,27 +11,27 @@
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 68.968,
+        "hm3": 68.994,
         "hm3_maxim": 71.56,
-        "pct": 96.378,
+        "pct": 96.414,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "La Baells (Llobregat)",
         "comput_conques_internes": true,
-        "hm3": 105.964,
+        "hm3": 106.0,
         "hm3_maxim": 108.71,
-        "pct": 97.474,
+        "pct": 97.507,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 144.153,
+        "hm3": 144.254,
         "hm3_maxim": 165.81,
-        "pct": 86.939,
+        "pct": 87.0,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,18 +47,18 @@
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 214.955,
+        "hm3": 214.873,
         "hm3_maxim": 223.58,
-        "pct": 96.142,
+        "pct": 96.106,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 0.894,
+        "hm3": 0.89,
         "hm3_maxim": 1.3,
-        "pct": 68.769,
+        "pct": 68.462,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -74,9 +74,9 @@
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 3.101,
+        "hm3": 3.103,
         "hm3_maxim": 59.4,
-        "pct": 5.221,
+        "pct": 5.224,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
@@ -92,9 +92,9 @@
     {
         "nom": "Riudecanyes (riera de Riudecanyes)",
         "comput_conques_internes": true,
-        "hm3": 5.319,
+        "hm3": 5.315,
         "hm3_maxim": 5.32,
-        "pct": 99.981,
+        "pct": 99.906,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     }
