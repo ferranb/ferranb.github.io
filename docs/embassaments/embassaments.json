@@ -2,18 +2,18 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 2.756,
+        "hm3": 2.751,
         "hm3_maxim": 3.37,
-        "pct": 81.78,
+        "pct": 81.632,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 72.135,
+        "hm3": 72.156,
         "hm3_maxim": 71.56,
-        "pct": 100.804,
+        "pct": 100.833,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 143.951,
+        "hm3": 144.063,
         "hm3_maxim": 165.81,
-        "pct": 86.817,
+        "pct": 86.884,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -56,9 +56,9 @@
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.445,
+        "hm3": 1.443,
         "hm3_maxim": 1.3,
-        "pct": 111.154,
+        "pct": 111.0,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -74,18 +74,18 @@
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 6.849,
+        "hm3": 6.858,
         "hm3_maxim": 59.4,
-        "pct": 11.53,
+        "pct": 11.545,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
     {
         "nom": "Siurana (Siurana)",
         "comput_conques_internes": true,
-        "hm3": 8.512,
+        "hm3": 8.516,
         "hm3_maxim": 12.01,
-        "pct": 70.874,
+        "pct": 70.908,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
