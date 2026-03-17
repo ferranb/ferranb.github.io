@@ -2,9 +2,9 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 2.655,
+        "hm3": 2.658,
         "hm3_maxim": 3.37,
-        "pct": 78.783,
+        "pct": 78.872,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -74,9 +74,9 @@
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 7.139,
+        "hm3": 7.141,
         "hm3_maxim": 59.4,
-        "pct": 12.019,
+        "pct": 12.022,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
