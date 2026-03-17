@@ -74,18 +74,18 @@
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 7.091,
+        "hm3": 7.094,
         "hm3_maxim": 59.4,
-        "pct": 11.938,
+        "pct": 11.943,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
     {
         "nom": "Siurana (Siurana)",
         "comput_conques_internes": true,
-        "hm3": 8.683,
+        "hm3": 8.689,
         "hm3_maxim": 12.01,
-        "pct": 72.298,
+        "pct": 72.348,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
