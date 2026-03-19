@@ -2,9 +2,9 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 2.735,
+        "hm3": 2.737,
         "hm3_maxim": 3.37,
-        "pct": 81.157,
+        "pct": 81.217,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,27 +29,27 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 145.977,
+        "hm3": 145.92,
         "hm3_maxim": 165.81,
-        "pct": 88.039,
+        "pct": 88.004,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Darnius Boadella (Muga)",
         "comput_conques_internes": true,
-        "hm3": 57.811,
+        "hm3": 57.775,
         "hm3_maxim": 63.3,
-        "pct": 91.329,
+        "pct": 91.272,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 207.028,
+        "hm3": 207.061,
         "hm3_maxim": 223.58,
-        "pct": 92.597,
+        "pct": 92.612,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -74,9 +74,9 @@
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 7.269,
+        "hm3": 7.271,
         "hm3_maxim": 59.4,
-        "pct": 12.237,
+        "pct": 12.241,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
