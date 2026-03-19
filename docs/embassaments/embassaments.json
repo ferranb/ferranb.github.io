@@ -2,9 +2,9 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 2.734,
+        "hm3": 2.735,
         "hm3_maxim": 3.37,
-        "pct": 81.128,
+        "pct": 81.157,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 146.033,
+        "hm3": 145.977,
         "hm3_maxim": 165.81,
-        "pct": 88.072,
+        "pct": 88.039,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -74,18 +74,18 @@
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 7.267,
+        "hm3": 7.269,
         "hm3_maxim": 59.4,
-        "pct": 12.234,
+        "pct": 12.237,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
     {
         "nom": "Siurana (Siurana)",
         "comput_conques_internes": true,
-        "hm3": 8.828,
+        "hm3": 8.834,
         "hm3_maxim": 12.01,
-        "pct": 73.505,
+        "pct": 73.555,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
