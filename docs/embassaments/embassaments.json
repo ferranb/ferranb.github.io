@@ -11,9 +11,9 @@
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 72.056,
+        "hm3": 72.061,
         "hm3_maxim": 71.56,
-        "pct": 100.693,
+        "pct": 100.7,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -38,27 +38,27 @@
     {
         "nom": "Darnius Boadella (Muga)",
         "comput_conques_internes": true,
-        "hm3": 56.097,
+        "hm3": 56.094,
         "hm3_maxim": 63.3,
-        "pct": 88.621,
+        "pct": 88.616,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 206.398,
+        "hm3": 206.334,
         "hm3_maxim": 223.58,
-        "pct": 92.315,
+        "pct": 92.286,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 0.793,
+        "hm3": 0.804,
         "hm3_maxim": 1.3,
-        "pct": 61.0,
+        "pct": 61.846,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -74,9 +74,9 @@
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 7.466,
+        "hm3": 7.462,
         "hm3_maxim": 59.4,
-        "pct": 12.569,
+        "pct": 12.562,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
@@ -92,9 +92,9 @@
     {
         "nom": "Riudecanyes (riera de Riudecanyes)",
         "comput_conques_internes": true,
-        "hm3": 5.315,
+        "hm3": 5.308,
         "hm3_maxim": 5.32,
-        "pct": 99.906,
+        "pct": 99.774,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     }
