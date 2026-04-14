@@ -29,27 +29,27 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 146.657,
+        "hm3": 146.6,
         "hm3_maxim": 165.81,
-        "pct": 88.449,
+        "pct": 88.414,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Darnius Boadella (Muga)",
         "comput_conques_internes": true,
-        "hm3": 55.246,
+        "hm3": 55.194,
         "hm3_maxim": 63.3,
-        "pct": 87.276,
+        "pct": 87.194,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 207.167,
+        "hm3": 207.269,
         "hm3_maxim": 223.58,
-        "pct": 92.659,
+        "pct": 92.705,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
