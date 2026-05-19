@@ -11,9 +11,9 @@
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 71.463,
+        "hm3": 71.457,
         "hm3_maxim": 71.56,
-        "pct": 99.864,
+        "pct": 99.856,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 148.605,
+        "hm3": 148.628,
         "hm3_maxim": 165.81,
-        "pct": 89.624,
+        "pct": 89.638,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
