@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 150.834,
+        "hm3": 150.891,
         "hm3_maxim": 165.81,
-        "pct": 90.968,
+        "pct": 91.002,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,18 +47,18 @@
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 219.562,
+        "hm3": 219.462,
         "hm3_maxim": 223.58,
-        "pct": 98.203,
+        "pct": 98.158,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 0.942,
+        "hm3": 0.95,
         "hm3_maxim": 1.3,
-        "pct": 72.462,
+        "pct": 73.077,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -74,9 +74,9 @@
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 6.023,
+        "hm3": 6.022,
         "hm3_maxim": 59.4,
-        "pct": 10.14,
+        "pct": 10.138,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
