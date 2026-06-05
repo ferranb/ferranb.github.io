@@ -2,27 +2,27 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 2.622,
+        "hm3": 2.623,
         "hm3_maxim": 3.37,
-        "pct": 77.804,
+        "pct": 77.834,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 71.584,
+        "hm3": 71.576,
         "hm3_maxim": 71.56,
-        "pct": 100.034,
+        "pct": 100.022,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "La Baells (Llobregat)",
         "comput_conques_internes": true,
-        "hm3": 107.673,
+        "hm3": 107.601,
         "hm3_maxim": 108.71,
-        "pct": 99.046,
+        "pct": 98.98,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -74,9 +74,9 @@
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 5.285,
+        "hm3": 5.283,
         "hm3_maxim": 59.4,
-        "pct": 8.897,
+        "pct": 8.894,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
@@ -92,9 +92,9 @@
     {
         "nom": "Riudecanyes (riera de Riudecanyes)",
         "comput_conques_internes": true,
-        "hm3": 5.239,
+        "hm3": 5.235,
         "hm3_maxim": 5.32,
-        "pct": 98.477,
+        "pct": 98.402,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     }
