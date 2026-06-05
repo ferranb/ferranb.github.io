@@ -11,18 +11,18 @@
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 71.576,
+        "hm3": 71.59,
         "hm3_maxim": 71.56,
-        "pct": 100.022,
+        "pct": 100.042,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "La Baells (Llobregat)",
         "comput_conques_internes": true,
-        "hm3": 107.601,
+        "hm3": 107.565,
         "hm3_maxim": 108.71,
-        "pct": 98.98,
+        "pct": 98.947,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -65,18 +65,18 @@
     {
         "nom": "Sant Pon\u00e7 (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 22.8,
+        "hm3": 22.787,
         "hm3_maxim": 24.41,
-        "pct": 93.404,
+        "pct": 93.351,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 5.283,
+        "hm3": 5.282,
         "hm3_maxim": 59.4,
-        "pct": 8.894,
+        "pct": 8.892,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
