@@ -2,36 +2,36 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 2.624,
+        "hm3": 2.625,
         "hm3_maxim": 3.37,
-        "pct": 77.864,
+        "pct": 77.893,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 71.633,
+        "hm3": 71.63,
         "hm3_maxim": 71.56,
-        "pct": 100.102,
+        "pct": 100.098,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "La Baells (Llobregat)",
         "comput_conques_internes": true,
-        "hm3": 106.39,
+        "hm3": 106.319,
         "hm3_maxim": 108.71,
-        "pct": 97.866,
+        "pct": 97.801,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 157.205,
+        "hm3": 157.098,
         "hm3_maxim": 165.81,
-        "pct": 94.81,
+        "pct": 94.746,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,9 +47,9 @@
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 218.742,
+        "hm3": 218.731,
         "hm3_maxim": 223.58,
-        "pct": 97.836,
+        "pct": 97.831,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -65,18 +65,18 @@
     {
         "nom": "Sant Pon\u00e7 (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 22.773,
+        "hm3": 22.759,
         "hm3_maxim": 24.41,
-        "pct": 93.294,
+        "pct": 93.236,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 5.26,
+        "hm3": 5.258,
         "hm3_maxim": 59.4,
-        "pct": 8.855,
+        "pct": 8.852,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
