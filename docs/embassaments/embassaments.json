@@ -20,18 +20,18 @@
     {
         "nom": "La Baells (Llobregat)",
         "comput_conques_internes": true,
-        "hm3": 106.248,
+        "hm3": 106.177,
         "hm3_maxim": 108.71,
-        "pct": 97.735,
+        "pct": 97.67,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 157.027,
+        "hm3": 156.909,
         "hm3_maxim": 165.81,
-        "pct": 94.703,
+        "pct": 94.632,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -74,9 +74,9 @@
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 5.258,
+        "hm3": 5.257,
         "hm3_maxim": 59.4,
-        "pct": 8.852,
+        "pct": 8.85,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
