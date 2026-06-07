@@ -11,9 +11,9 @@
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 71.663,
+        "hm3": 71.668,
         "hm3_maxim": 71.56,
-        "pct": 100.144,
+        "pct": 100.151,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 154.092,
+        "hm3": 153.981,
         "hm3_maxim": 165.81,
-        "pct": 92.933,
+        "pct": 92.866,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -74,9 +74,9 @@
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 5.211,
+        "hm3": 5.209,
         "hm3_maxim": 59.4,
-        "pct": 8.773,
+        "pct": 8.769,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
