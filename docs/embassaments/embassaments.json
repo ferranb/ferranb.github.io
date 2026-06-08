@@ -2,9 +2,9 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 2.624,
+        "hm3": 2.623,
         "hm3_maxim": 3.37,
-        "pct": 77.864,
+        "pct": 77.834,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 153.269,
+        "hm3": 153.153,
         "hm3_maxim": 165.81,
-        "pct": 92.437,
+        "pct": 92.367,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
