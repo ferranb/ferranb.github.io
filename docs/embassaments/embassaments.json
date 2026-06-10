@@ -2,9 +2,9 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 2.584,
+        "hm3": 2.583,
         "hm3_maxim": 3.37,
-        "pct": 76.677,
+        "pct": 76.647,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -38,9 +38,9 @@
     {
         "nom": "Darnius Boadella (Muga)",
         "comput_conques_internes": true,
-        "hm3": 57.74,
+        "hm3": 57.775,
         "hm3_maxim": 63.3,
-        "pct": 91.216,
+        "pct": 91.272,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -56,9 +56,9 @@
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.123,
+        "hm3": 1.128,
         "hm3_maxim": 1.3,
-        "pct": 86.385,
+        "pct": 86.769,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -74,9 +74,9 @@
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 5.114,
+        "hm3": 5.113,
         "hm3_maxim": 59.4,
-        "pct": 8.609,
+        "pct": 8.608,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
@@ -92,9 +92,9 @@
     {
         "nom": "Riudecanyes (riera de Riudecanyes)",
         "comput_conques_internes": true,
-        "hm3": 5.176,
+        "hm3": 5.172,
         "hm3_maxim": 5.32,
-        "pct": 97.293,
+        "pct": 97.218,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     }
