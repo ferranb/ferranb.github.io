@@ -38,27 +38,27 @@
     {
         "nom": "Darnius Boadella (Muga)",
         "comput_conques_internes": true,
-        "hm3": 54.199,
+        "hm3": 54.165,
         "hm3_maxim": 63.3,
-        "pct": 85.622,
+        "pct": 85.569,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 216.222,
+        "hm3": 216.189,
         "hm3_maxim": 223.58,
-        "pct": 96.709,
+        "pct": 96.694,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.059,
+        "hm3": 1.047,
         "hm3_maxim": 1.3,
-        "pct": 81.462,
+        "pct": 80.538,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -74,9 +74,9 @@
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 4.355,
+        "hm3": 4.353,
         "hm3_maxim": 59.4,
-        "pct": 7.332,
+        "pct": 7.328,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
