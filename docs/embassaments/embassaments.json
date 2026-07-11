@@ -2,9 +2,9 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 2.215,
+        "hm3": 2.216,
         "hm3_maxim": 3.37,
-        "pct": 65.727,
+        "pct": 65.757,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -20,36 +20,36 @@
     {
         "nom": "La Baells (Llobregat)",
         "comput_conques_internes": true,
-        "hm3": 95.789,
+        "hm3": 95.756,
         "hm3_maxim": 108.71,
-        "pct": 88.114,
+        "pct": 88.084,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 140.422,
+        "hm3": 140.334,
         "hm3_maxim": 165.81,
-        "pct": 84.688,
+        "pct": 84.635,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Darnius Boadella (Muga)",
         "comput_conques_internes": true,
-        "hm3": 50.585,
+        "hm3": 50.553,
         "hm3_maxim": 63.3,
-        "pct": 79.913,
+        "pct": 79.863,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 211.968,
+        "hm3": 212.039,
         "hm3_maxim": 223.58,
-        "pct": 94.806,
+        "pct": 94.838,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -65,18 +65,18 @@
     {
         "nom": "Sant Pon\u00e7 (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 21.881,
+        "hm3": 21.873,
         "hm3_maxim": 24.41,
-        "pct": 89.639,
+        "pct": 89.607,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 3.866,
+        "hm3": 3.864,
         "hm3_maxim": 59.4,
-        "pct": 6.508,
+        "pct": 6.505,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
@@ -92,9 +92,9 @@
     {
         "nom": "Riudecanyes (riera de Riudecanyes)",
         "comput_conques_internes": true,
-        "hm3": 4.209,
+        "hm3": 4.205,
         "hm3_maxim": 5.32,
-        "pct": 79.117,
+        "pct": 79.041,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     }
