@@ -2,18 +2,18 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 2.208,
+        "hm3": 2.207,
         "hm3_maxim": 3.37,
-        "pct": 65.519,
+        "pct": 65.49,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 69.804,
+        "hm3": 69.812,
         "hm3_maxim": 71.56,
-        "pct": 97.546,
+        "pct": 97.557,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,54 +29,54 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 140.279,
+        "hm3": 140.186,
         "hm3_maxim": 165.81,
-        "pct": 84.602,
+        "pct": 84.546,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Darnius Boadella (Muga)",
         "comput_conques_internes": true,
-        "hm3": 50.03,
+        "hm3": 49.933,
         "hm3_maxim": 63.3,
-        "pct": 79.036,
+        "pct": 78.883,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 209.788,
+        "hm3": 209.821,
         "hm3_maxim": 223.58,
-        "pct": 93.831,
+        "pct": 93.846,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.046,
+        "hm3": 1.05,
         "hm3_maxim": 1.3,
-        "pct": 80.462,
+        "pct": 80.769,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sant Pon\u00e7 (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 21.7,
+        "hm3": 21.692,
         "hm3_maxim": 24.41,
-        "pct": 88.898,
+        "pct": 88.865,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 3.793,
+        "hm3": 3.79,
         "hm3_maxim": 59.4,
-        "pct": 6.386,
+        "pct": 6.38,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
