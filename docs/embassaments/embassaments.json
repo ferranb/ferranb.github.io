@@ -11,9 +11,9 @@
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 68.979,
+        "hm3": 68.968,
         "hm3_maxim": 71.56,
-        "pct": 96.393,
+        "pct": 96.378,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 136.148,
+        "hm3": 136.137,
         "hm3_maxim": 165.81,
-        "pct": 82.111,
+        "pct": 82.104,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,27 +47,27 @@
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 201.931,
+        "hm3": 201.899,
         "hm3_maxim": 223.58,
-        "pct": 90.317,
+        "pct": 90.303,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.06,
+        "hm3": 1.045,
         "hm3_maxim": 1.3,
-        "pct": 81.538,
+        "pct": 80.385,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sant Pon\u00e7 (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 20.716,
+        "hm3": 20.717,
         "hm3_maxim": 24.41,
-        "pct": 84.867,
+        "pct": 84.871,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
