@@ -2,9 +2,9 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 1.966,
+        "hm3": 1.967,
         "hm3_maxim": 3.37,
-        "pct": 58.338,
+        "pct": 58.368,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
@@ -29,54 +29,54 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 130.742,
+        "hm3": 130.705,
         "hm3_maxim": 165.81,
-        "pct": 78.85,
+        "pct": 78.828,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Darnius Boadella (Muga)",
         "comput_conques_internes": true,
-        "hm3": 44.887,
+        "hm3": 44.836,
         "hm3_maxim": 63.3,
-        "pct": 70.912,
+        "pct": 70.831,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 198.299,
+        "hm3": 198.278,
         "hm3_maxim": 223.58,
-        "pct": 88.693,
+        "pct": 88.683,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 0.881,
+        "hm3": 0.887,
         "hm3_maxim": 1.3,
-        "pct": 67.769,
+        "pct": 68.231,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sant Pon\u00e7 (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 20.117,
+        "hm3": 20.123,
         "hm3_maxim": 24.41,
-        "pct": 82.413,
+        "pct": 82.438,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 3.086,
+        "hm3": 3.085,
         "hm3_maxim": 59.4,
-        "pct": 5.195,
+        "pct": 5.194,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
