@@ -2,9 +2,9 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 1.923,
+        "hm3": 1.922,
         "hm3_maxim": 3.37,
-        "pct": 57.062,
+        "pct": 57.033,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 130.981,
+        "hm3": 130.851,
         "hm3_maxim": 165.81,
-        "pct": 78.995,
+        "pct": 78.916,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,36 +47,36 @@
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 194.738,
+        "hm3": 194.82,
         "hm3_maxim": 223.58,
-        "pct": 87.1,
+        "pct": 87.137,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 0.907,
+        "hm3": 0.914,
         "hm3_maxim": 1.3,
-        "pct": 69.769,
+        "pct": 70.308,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sant Pon\u00e7 (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 19.677,
+        "hm3": 19.667,
         "hm3_maxim": 24.41,
-        "pct": 80.61,
+        "pct": 80.569,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Gai\u00e0 (Gai\u00e0)",
         "comput_conques_internes": false,
-        "hm3": 2.885,
+        "hm3": 2.884,
         "hm3_maxim": 59.4,
-        "pct": 4.857,
+        "pct": 4.855,
         "fase_emoji": "\ud83d\udd34",
         "fase_nom": "Fase d'emerg\u00e8cnia"
     },
