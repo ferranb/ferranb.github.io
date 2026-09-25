@@ -20,18 +20,18 @@
     {
         "nom": "La Baells (Llobregat)",
         "comput_conques_internes": true,
-        "hm3": 78.59,
+        "hm3": 78.561,
         "hm3_maxim": 108.71,
-        "pct": 72.293,
+        "pct": 72.267,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 116.715,
+        "hm3": 116.744,
         "hm3_maxim": 165.81,
-        "pct": 70.391,
+        "pct": 70.408,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -47,27 +47,27 @@
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 183.081,
+        "hm3": 182.993,
         "hm3_maxim": 223.58,
-        "pct": 81.886,
+        "pct": 81.847,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.118,
+        "hm3": 1.165,
         "hm3_maxim": 1.3,
-        "pct": 86.0,
+        "pct": 89.615,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sant Pon\u00e7 (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 19.341,
+        "hm3": 19.329,
         "hm3_maxim": 24.41,
-        "pct": 79.234,
+        "pct": 79.185,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -92,9 +92,9 @@
     {
         "nom": "Riudecanyes (riera de Riudecanyes)",
         "comput_conques_internes": true,
-        "hm3": 1.638,
+        "hm3": 1.637,
         "hm3_maxim": 5.32,
-        "pct": 30.789,
+        "pct": 30.771,
         "fase_emoji": "\ud83d\udfe1",
         "fase_nom": "Fase d'alerta"
     }
