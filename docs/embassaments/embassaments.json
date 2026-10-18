@@ -2,54 +2,54 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 1.789,
+        "hm3": 1.791,
         "hm3_maxim": 3.37,
-        "pct": 53.086,
+        "pct": 53.145,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 58.704,
+        "hm3": 58.701,
         "hm3_maxim": 71.56,
-        "pct": 82.035,
+        "pct": 82.03,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "La Baells (Llobregat)",
         "comput_conques_internes": true,
-        "hm3": 77.241,
+        "hm3": 77.269,
         "hm3_maxim": 108.71,
-        "pct": 71.052,
+        "pct": 71.078,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 113.955,
+        "hm3": 113.997,
         "hm3_maxim": 165.81,
-        "pct": 68.726,
+        "pct": 68.752,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Darnius Boadella (Muga)",
         "comput_conques_internes": true,
-        "hm3": 38.158,
+        "hm3": 38.172,
         "hm3_maxim": 63.3,
-        "pct": 60.281,
+        "pct": 60.303,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
     {
         "nom": "Susqueda (Ter)",
         "comput_conques_internes": true,
-        "hm3": 183.81,
+        "hm3": 183.781,
         "hm3_maxim": 223.58,
-        "pct": 82.212,
+        "pct": 82.199,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
