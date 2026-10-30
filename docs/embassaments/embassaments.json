@@ -2,18 +2,18 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 1.822,
+        "hm3": 1.823,
         "hm3_maxim": 3.37,
-        "pct": 54.065,
+        "pct": 54.095,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
     {
         "nom": "La Llosa del Cavall (Cardener)",
         "comput_conques_internes": true,
-        "hm3": 59.673,
+        "hm3": 59.67,
         "hm3_maxim": 71.56,
-        "pct": 83.389,
+        "pct": 83.385,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 120.235,
+        "hm3": 120.298,
         "hm3_maxim": 165.81,
-        "pct": 72.514,
+        "pct": 72.552,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -56,9 +56,9 @@
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.135,
+        "hm3": 1.118,
         "hm3_maxim": 1.3,
-        "pct": 87.308,
+        "pct": 86.0,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -92,9 +92,9 @@
     {
         "nom": "Riudecanyes (riera de Riudecanyes)",
         "comput_conques_internes": true,
-        "hm3": 1.461,
+        "hm3": 1.459,
         "hm3_maxim": 5.32,
-        "pct": 27.462,
+        "pct": 27.425,
         "fase_emoji": "\ud83d\udfe1",
         "fase_nom": "Fase d'alerta"
     }
