@@ -2,9 +2,9 @@
     {
         "nom": "Foix (Foix)",
         "comput_conques_internes": true,
-        "hm3": 1.8,
+        "hm3": 1.799,
         "hm3_maxim": 3.37,
-        "pct": 53.412,
+        "pct": 53.383,
         "fase_emoji": "\ud83d\udfe2",
         "fase_nom": "Fase de pre-alerta"
     },
@@ -29,9 +29,9 @@
     {
         "nom": "Sau (Ter)",
         "comput_conques_internes": true,
-        "hm3": 121.816,
+        "hm3": 121.836,
         "hm3_maxim": 165.81,
-        "pct": 73.467,
+        "pct": 73.479,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
@@ -56,9 +56,9 @@
     {
         "nom": "Pasteral (Ter)",
         "comput_conques_internes": false,
-        "hm3": 1.084,
+        "hm3": 1.066,
         "hm3_maxim": 1.3,
-        "pct": 83.385,
+        "pct": 82.0,
         "fase_emoji": "\ud83d\udd35",
         "fase_nom": "Fase de normalitat"
     },
